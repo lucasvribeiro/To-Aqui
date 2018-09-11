@@ -14,24 +14,27 @@
 
 <h2 id="window">Windows</h2>
 
-<h4>iOS</h4>
+<h3>iOS</h3>
 <p>Infelizmente não é possivel configurar ambiente de desenvolvimento iOS no Windows, por isso, passe para o ambiente android</p>
 
-<h4>Android</h4>
+<h3>Android</h3>
 <p>Para configurar o ambiente Android no Windows, vamos precisar instalar 4 dependências: <strong>Node, Python2, JDK e Android Studio</strong></p>
 
-<p><strong>NodeJS</strong></p>
-<p>Para o NodeJS, basta instalar a versão estável ou a mais recente (superior a versão 4)</p>
-
-<p><strong>Java Development Kit</strong></p>
-<p>Baixar o JDK8</p>
-
-<p><strong>Configurando o React</strong></p>
-<p>Após baixar e instalar o NodeJS, o Python2 e o JDK8, temos que baiar o react-native-cli. Basta rodar o comando <strong>npm install -g react-native-cli</strong></p>
-<p>Com o CLI instalado podemos rodar o comando react-native -h e ver as opções de ajuda do comando.</p>
-
-<p><strong>Configurando o Android Studio</strong></p>
 <p>
+<strong>NodeJS</strong><br>
+Para o NodeJS, basta instalar a versão estável ou a mais recente (superior a versão 4)
+</p>
+
+<p>
+<strong>Java Development Kit</strong><br>
+Baixar o JDK8
+</p>
+
+<p><strong>Configurando o React</strong><br>
+Após baixar e instalar o NodeJS, o Python2 e o JDK8, temos que baiar o react-native-cli. Basta rodar o comando <strong>npm install -g react-native-cli</strong><br>
+Com o CLI instalado podemos rodar o comando react-native -h e ver as opções de ajuda do comando.</p>
+
+<p><strong>Configurando o Android Studio</strong><br>
 Assim que feito o Download do Android Studio, execute o instalador.<br>
 No Passo "Tipo de Instalação" selecione "Custom" ou "Personalizada" e selecione os seguintes componentes:
 <ul>
